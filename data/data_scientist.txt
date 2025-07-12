@@ -1,0 +1,13 @@
+We are looking for a Data Scientist who will help us discover insights hidden in vast amounts of data. Responsibilities include:
+
+- Build predictive models and machine-learning algorithms.
+- Combine models through ensemble modeling.
+- Enhance data collection procedures.
+- Analyze large amounts of information to discover trends and patterns.
+- Collaborate with engineering and product teams.
+
+Skills:
+- Python, R, SQL
+- scikit-learn, TensorFlow, PyTorch
+- Strong statistical skills
+- Problem-solving attitude

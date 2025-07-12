@@ -1,0 +1,10 @@
+We are hiring a Software Engineer responsible for building scalable web applications. Responsibilities include:
+
+- Write clean, maintainable, and efficient code.
+- Design robust, scalable, and secure features.
+- Collaborate with other team members.
+
+Required Skills:
+- Proficient in JavaScript, Python or Java.
+- Experience with frameworks like React, Django, or Spring.
+- Understanding of REST APIs and cloud platforms (AWS/Azure).

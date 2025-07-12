@@ -1,0 +1,13 @@
+We’re seeking a skilled Backend Developer to join our engineering team. You'll build scalable APIs, maintain backend services, and ensure high performance and responsiveness.
+
+Responsibilities:
+- Design and implement RESTful APIs using Python or Node.js.
+- Maintain and scale backend infrastructure.
+- Integrate with third-party services and databases.
+- Ensure code quality through unit testing and code reviews.
+
+Requirements:
+- Strong experience with Python, Django, or Node.js.
+- Familiarity with databases like PostgreSQL and MongoDB.
+- Experience with Docker and containerization.
+- Understanding of CI/CD and deployment pipelines.

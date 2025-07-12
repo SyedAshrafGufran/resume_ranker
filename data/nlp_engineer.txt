@@ -1,0 +1,11 @@
+We are seeking an NLP Engineer to build AI-powered applications.
+
+Responsibilities:
+- Work on language models and transformers.
+- Fine-tune pre-trained models for classification, NER, summarization.
+- Evaluate and improve model performance.
+
+Skills:
+- Experience with Hugging Face Transformers.
+- Python, PyTorch or TensorFlow.
+- Knowledge of linguistic structures and language processing.

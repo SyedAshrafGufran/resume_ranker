@@ -1,0 +1,13 @@
+We are looking for an AI Research Intern to help with experimental models, prototype development, and evaluation of cutting-edge deep learning techniques.
+
+Responsibilities:
+- Read and summarize recent AI papers (NLP, vision, multi-modal, etc.).
+- Build research prototypes and run benchmarks.
+- Work with large language models and transformer-based architectures.
+- Collaborate on papers or presentations.
+
+Requirements:
+- Strong understanding of deep learning and neural networks.
+- Experience with PyTorch or TensorFlow.
+- Familiarity with Hugging Face Transformers.
+- Good written communication skills.
